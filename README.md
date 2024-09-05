@@ -1,5 +1,6 @@
 # SQL-Earthquake-Analysis
-## Business Problem: Identifying High-Risk Areas for Earthquake Preparedness and Resource Allocation
+## Business Problem: 
+Identifying High-Risk Areas for Earthquake Preparedness and Resource Allocation
 
 ## Objective: The goal is to analyze earthquake data to identify geographical regions with high seismic activity. This information can help governments, emergency response teams, and insurance companies to prioritize and allocate resources effectively, plan for disaster preparedness, and develop risk mitigation strategies
 
@@ -36,3 +37,5 @@
 12. Most affected region
 13. Classify earthquakes by magnitudes
 14. result and finding
+
+### Earthquake glossary https://www.usgs.gov/glossary/earthquake-hazards-program#M
